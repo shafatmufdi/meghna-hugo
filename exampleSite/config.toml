@@ -8,7 +8,7 @@ themesDir = "../.."
 title = "The Sixes And Sevens Garage"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Shafat Mufdi](https://facebook.com/shafat.mufdi) & Developed by [The Sixes And Sevens Garage](https://joinforajoint.netlify.com)"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
@@ -55,7 +55,7 @@ url = "https://themefisher.com/"
 weight = 8
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2020 Designed by [Shafat Mufdi](https://facebook.com/shafat.mufdi) & Developed by [The Sixes And Sevens Garage](https://joinforajoint.netlify.com)"
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
